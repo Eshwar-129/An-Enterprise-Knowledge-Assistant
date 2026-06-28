@@ -49,7 +49,7 @@ flowchart LR
 - **Project root:**
   - [backend](backend) — FastAPI implementation and RAG engine
   - [frontend](frontend) — Streamlit UI
-  - [knowledge_base](knowledge_base) — Put source PDFs here
+  - [knowledge_base](knowledge_base1) — Put source PDFs here
   - [pdf.py](pdf.py) — PDF generator (design docs)
   - [requirements.txt](requirements.txt) — Combined runtime deps for the project
 
