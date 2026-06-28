@@ -21,8 +21,8 @@
 
 # 🌐 Live Links
 
-- 🎨 **Frontend (Streamlit Cloud):** https://eshwar109-assignment-anthra.hf.space
-- ⚙️ **Backend API (Docker + Cloud):** https://an-enterprise-knowledge-assistant-kpxlbzqiabwxpovzybejr3.streamlit.app/
+- 🎨 **Frontend (Streamlit Cloud):** https://an-enterprise-knowledge-assistant-kpxlbzqiabwxpovzybejr3.streamlit.app
+- ⚙️ **Backend API (Docker + Cloud):** https://eshwar109-assignment-anthra.hf.space
 
 ---
 
